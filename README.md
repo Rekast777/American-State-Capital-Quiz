@@ -1,5 +1,5 @@
 # Projects
-This program was written using Netbeans, which has its own built-in GUI. I do not think this program will run with a different IDE.
+This program was written using Netbeans, which has its own built-in GUI.
 In order to run this program, follow the steps below:
   1. Install Netbeans
   2. In Netbeans, go to File > Import Project > From ZIP...
