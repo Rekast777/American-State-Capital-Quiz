@@ -1,4 +1,7 @@
 # Projects
+
+### Please Read "Project Overview" first
+
 This program was written using Netbeans, which has its own built-in GUI.
 In order to run this program, follow the steps below:
   1. Install Netbeans
